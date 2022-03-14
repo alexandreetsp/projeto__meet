@@ -1,0 +1,132 @@
+html{
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.blob_sizes{
+    position: absolute;
+    height: 790px;
+    width: 780px;
+    transform: rotate(155deg);
+    z-index: 0;
+    margin-left: -5em;
+}
+
+.image_main{
+    width: auto;
+    height: auto;
+    max-width:190em;
+    max-height:26em; 
+    
+}
+
+.img_side{
+    position: absolute;
+    margin-top: 7em;
+    margin-left: 3em;
+}
+
+.Name_aulas{
+    position: absolute;
+    margin-top: 4em;
+    image-rendering: optimizeQuality;
+    z-index: 1;
+    min-width: 400px;
+    margin-left: -3em;
+}
+
+.img_aulas{
+    width: 512px;
+}
+
+.Subtitle_name{
+
+    position:relative; 
+    margin-top: 16em;;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-left: -7em;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+.buttons_options{  
+
+    display: grid;
+    position: relative;
+    margin-top: 4em;
+    margin-left: -1em;
+    gap: 20px;
+    width: 30em;
+    z-index: 1;
+}
+
+.logo_cev{
+    position: absolute;
+    margin-top:32em ;
+    margin-left: 11em;
+    z-index: 1;
+}
+
+
+.logo_meet{
+
+    position: absolute;
+    z-index: 1;
+    margin-top: 2em;
+    margin-left: 7em;
+  
+}
+
+.camp_ensino_Fundamental{
+    margin-top: 22em;
+}
+
+.Ensino_medio{
+    margin-top: 6em;
+}
+
+.title_fundamental{
+  
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgb(0, 22, 70); 
+  margin-bottom: 1em;  
+}
+
+.title_medio{
+   
+    text-align: center; 
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(0, 22, 70);
+    margin-bottom: 1em;
+    
+  }
+
+.card-text{
+   
+    text-align: center;
+    font-size: 13px;
+    margin-top: -10px;
+}
+
+.card-title{
+    font-size: 16px;
+    text-align: center;
+   
+}
+
+ #color{
+    border-color: #ff7300;
+    background-color: #ff7300;
+    color: white;
+    margin-left: 4em;
+ }
+
+ h1{
+    color: rgb(0, 22, 70);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+ }
+
